@@ -1,0 +1,1 @@
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\MauiApp1\MauiApp1.csproj;x64

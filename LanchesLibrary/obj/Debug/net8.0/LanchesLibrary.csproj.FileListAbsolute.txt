@@ -1,0 +1,42 @@
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\bin\Debug\net8.0\LanchesLibrary.staticwebassets.runtime.json
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\bin\Debug\net8.0\LanchesLibrary.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\bin\Debug\net8.0\LanchesLibrary.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\bin\Debug\net8.0\LanchesLibrary.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets\msbuild.LanchesLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets\msbuild.build.LanchesLibrary.props
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LanchesLibrary.props
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LanchesLibrary.props
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\scopedcss\bundle\LanchesLibrary.styles.css
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\refint\LanchesLibrary.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Trabalho Coimbra\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\ref\LanchesLibrary.dll
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\bin\Debug\net8.0\LanchesLibrary.staticwebassets.runtime.json
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\bin\Debug\net8.0\LanchesLibrary.deps.json
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\bin\Debug\net8.0\LanchesLibrary.dll
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\bin\Debug\net8.0\LanchesLibrary.pdb
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.csproj.AssemblyReference.cache
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.AssemblyInfoInputs.cache
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.AssemblyInfo.cs
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.csproj.CoreCompileInputs.cache
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets.build.json
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets.development.json
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets\msbuild.LanchesLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets\msbuild.build.LanchesLibrary.props
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LanchesLibrary.props
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LanchesLibrary.props
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\staticwebassets.pack.json
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\scopedcss\bundle\LanchesLibrary.styles.css
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.dll
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\refint\LanchesLibrary.dll
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\LanchesLibrary.pdb
+C:\FACUL\POO\BlazorHybrid\LanchesMauiBlazor\LanchesLibrary\obj\Debug\net8.0\ref\LanchesLibrary.dll

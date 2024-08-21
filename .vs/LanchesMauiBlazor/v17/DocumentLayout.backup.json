@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEEFBD-16AD-4A07-B2E8-B99546662F4D}|LanchesWeb\\LanchesWeb.csproj|c:\\facul\\poo\\blazorhybrid\\lanchesmauiblazor\\lanchesweb\\data\\lancheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEEFBD-16AD-4A07-B2E8-B99546662F4D}|LanchesWeb\\LanchesWeb.csproj|solutionrelative:lanchesweb\\data\\lancheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5064B-202E-476A-B097-73C78D0C2180}|MauiApp1\\MauiApp1.csproj|c:\\facul\\poo\\blazorhybrid\\lanchesmauiblazor\\mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C5064B-202E-476A-B097-73C78D0C2180}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LancheService.cs",
+              "DocumentMoniker": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesWeb\\Data\\LancheService.cs",
+              "RelativeDocumentMoniker": "LanchesWeb\\Data\\LancheService.cs",
+              "ToolTip": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesWeb\\Data\\LancheService.cs",
+              "RelativeToolTip": "LanchesWeb\\Data\\LancheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:11:52.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\MauiApp1\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\MauiProgram.cs",
+              "ToolTip": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\MauiApp1\\MauiProgram.cs",
+              "RelativeToolTip": "MauiApp1\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:08:31.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿@page "/"
+
+<h1>Lancehs</h1>
+
+<ListaLanches ExibirAlerta="ExibirAlerta"></ListaLanches>
+
+@code {
+    private async Task ExibirAlerta()
+    {
+        if (Connectivity.NetworkAccess != NetworkAccess.Internet)
+        {
+            await Application.Current.MainPage.DisplayAlert("Alerta", "Alerta da aplicação MAUI  :  SEM INTERNET", "OK");
+        }
+        else
+        {
+            await Application.Current.MainPage.DisplayAlert("Alerta", "Aletra da aplicação MAUI  :  INTERNET OK!", "OK");
+        }
+    }
+}

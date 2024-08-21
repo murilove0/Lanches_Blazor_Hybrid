@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LanchesWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LanchesWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesWeb\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesWeb\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesWeb\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesWeb\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LanchesWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LanchesWeb.props",
+      "PackagePath": "build\\LanchesWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LanchesWeb.props",
+      "PackagePath": "buildMultiTargeting\\LanchesWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LanchesWeb.props",
+      "PackagePath": "buildTransitive\\LanchesWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "EgehwpsjnyEPTw6yHsgrwIKTRdNYT0dpbkZMiJDScG8=",
+  "Source": "LanchesLibrary",
+  "BasePath": "_content/LanchesLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LanchesLibrary\\wwwroot",
+      "Source": "LanchesLibrary",
+      "ContentRoot": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesLibrary\\wwwroot\\",
+      "BasePath": "_content/LanchesLibrary",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesLibrary\\wwwroot\\background.png",
+      "SourceId": "LanchesLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesLibrary\\wwwroot\\",
+      "BasePath": "_content/LanchesLibrary",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesLibrary\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "LanchesLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\FACUL\\POO\\BlazorHybrid\\LanchesMauiBlazor\\LanchesLibrary\\wwwroot\\",
+      "BasePath": "_content/LanchesLibrary",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
